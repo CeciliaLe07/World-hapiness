@@ -20,9 +20,9 @@ This repository is mainly comprised of the following files:
 
 |   File    |   Content   |
 |-----------|-------------|
-|[app.R](https://github.com/STAT545-UBC-students/hw08-CeciliaLe07/blob/master/app/app.R)| The code of this shiny app |
-|[happiness.csv](https://github.com/STAT545-UBC-students/hw08-CeciliaLe07/blob/master/app/happiness.csv)| The dataset used in the app|
-|[app.css](https://github.com/STAT545-UBC-students/hw08-CeciliaLe07/blob/master/app/www/app.css)| The css file used for giving to the app its appearance|
+|[app.R](https://github.com/CeciliaLe07/World-happiness/blob/master/app/app.R)| The code of this shiny app |
+|[happiness.csv](https://github.com/CeciliaLe07/World-happiness/blob/master/app/happiness.csv)| The dataset used in the app|
+|[app.css](https://github.com/CeciliaLe07/World-happiness/blob/master/app/happiness.csv)| The css file used for giving to the app its appearance|
 
 
 ### Another socurces of help
